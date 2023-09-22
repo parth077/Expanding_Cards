@@ -1,2 +1,2 @@
 # Expanding_Cards
-Expanding_Cards using HTML CSS &amp; JAVASCRIPT
+Day 1--> Expanding_Cards using HTML CSS &amp; JAVASCRIPT
